@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+langchain-groq
+ipykernel
+langchain_community
+markitdown[all]
